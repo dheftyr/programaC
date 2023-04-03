@@ -12,3 +12,13 @@ Modificando o arquivo README.md e nele está suas explicações sobre o programa
 Mostramos mais coisas na tela, e colocamos o "\n" para pular linha.</br>
 
 </div>
+
+##
+
+<div align = "center">
+----- Terceiro progrma em C! -----</br>
+Modificando o arquivo README.md e nele está suas explicações sobre o programa.</br>
+Criando um laço de repetição com a estrutura for e while e mostrando na tela seus respequitivo resultatdos</br>
+</div>
+
+##
