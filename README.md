@@ -47,3 +47,11 @@ Criando um programa que receba um número e que seja elevado por outro número e
 </div>
 
 ##
+
+<div align = "center">
+----- Sétimo progrma em C! -----</br>
+Modificando o arquivo README.md e nele está suas explicações sobre o programa.</br>
+Criando um programa que recebe os valores e calcula a área de trapézio.</br>
+</div>
+
+##
